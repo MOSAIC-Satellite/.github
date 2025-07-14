@@ -2,7 +2,7 @@
 
 MOSAIC, or "Modular Orbital Satellite for Advanced Innovation and Curriculum", is an open-source, modular satellite platform designed to advance space technology education and accelerate satellite mission design.
 
-![Fully assembled MOSAIC](assets/assembled_mosaic_in_hand.jpg)
+![Fully assembled MOSAIC](assets/mosaic_all_boards.jpg)
 
 MOSAIC is a demonstrator satellite, or “mocksat,” that uses commercial off-the-shelf (COTS) components and a modular hardware ecosystem to make satellite technology accessible, affordable, and adaptable for educational institutions and research teams.
 
