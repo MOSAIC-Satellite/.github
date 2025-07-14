@@ -11,7 +11,7 @@ MOSAIC is a demonstrator satellite, or “mocksat,” that uses commercial off-t
 [Visit MOSAIC's website](https://www.mosaicsat.org/) to learn more about the platform and read its documentation. 
 
 MOSAIC's website covers:
-- What MOSAIC is and all its components
+- MOSAIC and all its components
 - How to get your own MOSAIC
 - How to use MOSAIC
 
